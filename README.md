@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Equipe de Desenvolvimento
+##  Equipe de Desenvolvimento
 * Nathan V. A. Maciel
 * John K. de A. Castro
 * Victor S. V. de Souza
@@ -15,10 +15,10 @@
 
 ---
 
-## 📌 Visão Geral do Projeto
+## Visão Geral do Projeto
 Este repositório contém o código-fonte, datasets e a documentação completa de um pipeline de Inteligência Artificial modularizado em 6 etapas teóricas e práticas. O projeto utiliza dados meteorológicos e de sensoriamento remoto (baseados no histórico do INPE e INMET) para prever, inferir e tomar decisões sobre o risco de incêndios florestais e focos de queimadas.
 
-### 🏛️ Estrutura do Pipeline em 6 Etapas
+###  Estrutura do Pipeline em 6 Etapas
 
 1. **Etapa 1 — Indução de Árvores de Decisão:** Algoritmo `LEARN-DECISION-TREE` implementado do zero com cálculo manual de Entropia de Shannon e Ganho de Informação, validação cruzada 5-fold vs. `scikit-learn` e análise de não-monotonicidade.
 2. **Etapa 2 — Aprendizado Linear e Logístico:** Mínimos Quadrados Ordinários (MNO), Gradiente Descendente Multivariado com regularização Ridge ($L_2$) e Regressão Logística para classificação de emergência ambiental.
@@ -29,7 +29,7 @@ Este repositório contém o código-fonte, datasets e a documentação completa 
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```text
 trabalho-ia-ufam/
